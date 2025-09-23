@@ -1,7 +1,6 @@
 # User Guide — Remarkable™ Device Screen Dimension PDF Scaling Tool
 
-This application helps you prepare PDFs for comfortable reading on **reMarkable™ Paper Pro Move** and **reMarkable™ Paper Pro** tablets.  
-It resizes and optimizes your files so that text, margins, and fonts display clearly on e-ink screens.
+This application helps you prepare PDFs for comfortable reading on **reMarkable™ Paper Pro Move** and **reMarkable™ Paper Pro** tablets. It resizes and optimizes your files so that text, margins, and fonts display clearly on e-ink screens.
 
 
 ---
