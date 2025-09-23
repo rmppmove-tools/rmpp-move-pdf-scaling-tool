@@ -2,6 +2,8 @@
 
 This application helps you prepare PDFs for comfortable reading on **reMarkable™ Paper Pro Move** and **reMarkable™ Paper Pro** tablets. It resizes and optimizes your PDF files so that text, margins, and fonts display clearly on **reMarkable™ Paper Pro Move** and **reMarkable™ Paper Pro** screens.
 
+**Notice: Remarkable™ is a trademark of reMarkable AS. This website and its document conversion tooling are neither endorsed nor sponsored by, nor affiliated with, reMarkable AS.**
+
 
 ---
 
