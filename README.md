@@ -7,7 +7,7 @@ This application helps you prepare PDFs for comfortable reading on **reMarkableâ
 
 ## 1. Using the Software
 
-Choose the correct version for your specific machine operating system (Windows, MacOS, Linux) from the folders above.
+Choose the correct version for your specific machine operating system (Windows, MacOS) from the folders above.
 
 ### Step 1 â€” Upload a PDF
 - Choose your PDF file using the upload button.
