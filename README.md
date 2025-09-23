@@ -13,6 +13,8 @@ Download the correct .zip file version for your specific machine operating syste
 
 Windows:  https://drive.google.com/file/d/1jGip-7MBFMfv6zkYAmss0ilKPfFcyGFo/view?usp=sharing
 
+MacOS:    https://drive.google.com/file/d/1n4KLlsjaNY68LbS-_0haaFlfkEQDMRJw/view?usp=sharing
+
 ### Step 1 — Upload a PDF
 - Choose your PDF file using the upload button.
 - Large files are supported (up to 500 MB and 5000 pages).
