@@ -13,7 +13,7 @@ Download the correct .zip file version for your specific machine operating syste
 
 Windows:  https://drive.google.com/file/d/1HjfNK54ZVeJD7IZotXboY3artWGEyGoL/view?usp=sharing
 
-MacOS:    https://drive.google.com/file/d/1rxXRIGlAspfrTWUMTLkX1VrvlYSylIl5/view?usp=sharing
+MacOS:    https://drive.google.com/file/d/133npgkiOSHxbG16QfGUWX601VMwIzKW8/view?usp=sharing
 
 ### Step 1 — Upload a PDF
 - Choose your PDF file using the upload button.
