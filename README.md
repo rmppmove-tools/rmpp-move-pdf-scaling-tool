@@ -11,9 +11,9 @@ This application helps you prepare PDFs for comfortable reading on **reMarkableâ
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
-Windows:  https://drive.google.com/file/d/1HjfNK54ZVeJD7IZotXboY3artWGEyGoL/view?usp=sharing
+Windows:  https://drive.google.com/file/d/13rNAXjTuTkfd89An591kpn9z1YRzOWJs/view?usp=sharing
 
-MacOS:    https://drive.google.com/file/d/133npgkiOSHxbG16QfGUWX601VMwIzKW8/view?usp=sharing
+MacOS:    https://drive.google.com/file/d/1KTkqFzS5REIyHt2wqNOxo_HSulHwkGVD/view?usp=sharing
 
 ### Step 1 â€” Upload a PDF
 - Choose your PDF file using the upload button.
