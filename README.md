@@ -11,7 +11,7 @@ This application helps you prepare PDFs for comfortable reading on **reMarkableâ
 
 Download the correct .zip file version for your specific machine operating system (Windows, MacOS) from the following download links:
 
-Windows:  https://drive.google.com/file/d/1F0AbVyDTcjYdVJmwXREcaOyC2YHMjYTi/view?usp=sharing
+Windows:  https://drive.google.com/file/d/12_JbWCEXWasFAbrhOaHo-US_kfrWnBrs/view?usp=sharing
 
 MacOS:    https://drive.google.com/file/d/1fip7M4CwbuBfFq2JwNr_AFcK-XoMdPzJ/view?usp=sharing
 
